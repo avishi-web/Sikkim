@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mental Health Conditions in Sikkim</title>
+
+<style>
+a 
+{
+ text-decoration:none;
+}
+
+</style>
+
+</head>
+
+<body bgcolor="#e8bcf0">
+
+<font color="#765341" size="4">
+
+<table>
+
+<tr>
+<td colspan="2">
+<h1>Mental Health in Sikkim</h1>
+<br>
+<p>
+<h3>1. Psychological Disorders in Sikkim and Comorbidities</h3>
+Sikkim has one of the highest suicide rates in India, often attributed to factors such as unemployment, substance abuse, and social isolation. In Sikkim, common psychological <br> disorders include PTSD due to natural calamities like earthquakes and landslides, seasonal affective disorder (SAD) due to the region's geography, and substance abuse <br> disorders linked to alcoholism and drug addiction. The prevalence of these disorders often leads to comorbid conditions:
+<br>
+- Depression: Often observed in conjunction with anxiety and substance abuse disorders. High rates of alcoholism exacerbate depressive symptoms.
+<br>
+- Anxiety: Frequently coexists with depression and sometimes leads to substance abuse as a coping mechanism.
+<br>
+- Substance Abuse: A major issue in Sikkim, with alcohol and drug addiction rates being higher than the national average, often leading to depression and anxiety disorders.
+</p>
+</td>
+</tr>
+
+<tr>
+<td rowspan="2"> <img src="sucide rate graph.jpg" height="400"> </td>
+<td> <img src="sucide headlines.jpg" height="200"> </td>
+</tr>
+
+<tr>
+<td> <center> <img src="sucide headlines 2.jpg" height="200"> <center> </td>
+</tr>
+
+<tr>
+<td colspan="2">
+<p>
+<h3>2. Causes of Rising Mental Health Issues</h3>
+Several factors contribute to the rising mental health issues in Sikkim:
+<br>
+- Socioeconomic Factors: Economic instability and unemployment.
+<br>
+- Isolation: Geographic isolation leading to social and cultural seclusion.
+<br>
+- Substance Abuse: High levels of alcohol and drug use.
+<br>
+- Stigma: Social stigma surrounding mental health issues, deterring people from seeking help.
+<br>
+- Environmental stressors like frequent natural disasters.
+<br>
+- Inadequate mental health infrastructure,
+</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<p>
+<h3>3. Mental Health Care Facilities and Resources in Sikkim</h3>
+- Hospitals and Clinics: Sikkim Manipal Institute of Medical Sciences, STNM Hospital, various district hospitals.
+<br>
+- Rehabilitation Centers: Multiple government and private rehab centers focusing on substance abuse.
+<br>
+- NGOs: Organizations like Snehi Kendra and the Indian Red Cross Society offering mental health support and counseling.
+<br>
+- Helplines: 24/7 mental health helplines and crisis intervention services.
+</p>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+<p>
+<h3>4. Government Initiatives for Preventive Awareness</h3>
+- Central Initiatives: National Mental Health Programme (NMHP), Ayushman Bharat scheme, Manodarpan initiative under Atmanirbhar Bharat Abhiyan.
+<br>
+- State Initiatives: Awareness campaigns, school and community-based mental health programs, capacity building of healthcare workers.
+<br>
+- Educational Initiatives: Incorporation of mental health education in school curriculums, workshops, and seminars for students and teachers.
+</p>
+</td>
+</tr>
+
+<tr>
+<td> <img src="s awareness.jpg" height="300"> </td>
+<td> <img src="s awareness 2.jpg" height="300"> </td>
+</tr>
+
+<tr>
+<td colspan="2">
+<p>
+<h3>5. Comparative Analysis with Delhi</h3>
+- Prevalence: Sikkim has a higher prevalence of substance abuse disorders compared to Delhi. Depression and anxiety rates are also higher in Sikkim due to geographic and social <br> factors.
+<br>
+- Facilities: Delhi has more advanced and accessible mental health facilities compared to Sikkim.
+<br>
+- Government Support: Both regions benefit from central government initiatives, but Delhi has more localized programs due to its urban setting.
+<br>
+Delhi has a higher prevalence of stress-related disorders like anxiety and hypertension due to urban lifestyles, whereas Sikkim sees more trauma-related disorders due to natural <br> disasters.
+</p>
+</td>
+</tr>
+</table>
+
+</font>
+
+</body>
+</html>
